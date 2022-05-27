@@ -35,7 +35,7 @@
 - b) `vim file1.txt`
 
 10. Написать туда что-нибудь, любой текст
-- a) `cat >> file1.txt`
+- a) `cat > file1.txt`
     - `Hello world!`
 - b) <pre><kbd>i</kbd> //*#insert - режим редактирования*</pre>
     - `Hello world!`
